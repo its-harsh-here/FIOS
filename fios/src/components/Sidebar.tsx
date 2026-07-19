@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { LayoutDashboard, Map, Users, Car, Accessibility, Leaf, ShieldAlert, Settings } from 'lucide-react';
 
 const Sidebar = () => {

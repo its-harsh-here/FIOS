@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Bell, Search, Globe, ChevronDown } from 'lucide-react';
 
 const Header = () => {
